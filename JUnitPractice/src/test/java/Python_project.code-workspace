@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Python_project"
+		},
+		{
+			"path": "../../../../../Documents/sql1nen"
+		},
+		{
+			"path": "../../../../../Desktop/my-ts-project"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.spec": "gauge",
+			"*.cpt": "gauge"
+		},
+		"java.compile.nullAnalysis.mode": "disabled",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
